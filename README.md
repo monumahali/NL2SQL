@@ -4,6 +4,7 @@
 # See the diff log
 # Changes for PR practice
 # Changes for conflict2
+# Changes to see conflict
 
 # SQL Query Writer
 
