@@ -1,6 +1,8 @@
 # Monu changed the README.md
 # Added Feature
 # To pull doing some changes
+# See the diff log
+# Changes for PR practice
 
 # SQL Query Writer
 
