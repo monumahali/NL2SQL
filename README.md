@@ -1,3 +1,5 @@
+# Monu changed the README.md
+
 # SQL Query Writer
 
 A comprehensive database analysis and query tool that allows you to connect to any database, explore schemas, analyze relationships, get optimization suggestions, and generate SQL queries using natural language powered by OpenAI.
