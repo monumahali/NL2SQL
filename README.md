@@ -3,6 +3,7 @@
 # To pull doing some changes
 # See the diff log
 # Changes for PR practice
+# Changes for conflict2
 
 # SQL Query Writer
 
